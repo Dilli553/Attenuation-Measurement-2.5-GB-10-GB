@@ -61,14 +61,15 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 ## Tabulation
-<img width="720" height="839" alt="image" src="https://github.com/user-attachments/assets/27a6b2be-f353-40a8-9e32-09706c16b2d1" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0c231dad-9a43-4799-908c-df5c752ff287" />
 
 ## LOW NOISE FOR 2.5GB
 <img width="987" height="756" alt="image" src="https://github.com/user-attachments/assets/afb95916-0322-40e9-85d0-e92148d8714a" />
 ## High Noise
 <img width="986" height="752" alt="image" src="https://github.com/user-attachments/assets/ea76766a-5d83-41a0-9824-3da32b77b9fc" />
 ## TABULATION OF 10GB
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0c231dad-9a43-4799-908c-df5c752ff287" />
+<img width="720" height="839" alt="image" src="https://github.com/user-attachments/assets/27a6b2be-f353-40a8-9e32-09706c16b2d1" />
+
 ## LOW NOISE FOR 10GB
 <img width="995" height="762" alt="image" src="https://github.com/user-attachments/assets/efc21a37-4b95-4d13-9821-dac993390080" />
 ## High Noise
